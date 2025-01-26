@@ -3,6 +3,8 @@ Remote Work Productivity Analysis explores the impact of remote work on employee
 
 ![Image Description](https://media.istockphoto.com/id/1396721825/photo/over-the-shoulder-view-unrecognizable-man-using-desktop-pc-for-meeting.jpg?s=612x612&w=0&k=20&c=E4tY47UDpSNwoeotLubaO5qteLPC7RjbkpA7C8-vqiw=)
 
+![Remote Work](https://path/to/your/image1.jpg)
+
 **Objective:**
 The objective of this analysis is to explore how different work environments (remote and in-office) affect employee productivity and well-being. The analysis assess if remote work leads to better outcomes for employees in terms of productivity and overall well-being, and if working hours play a significant role in shaping these metrics.
 

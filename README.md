@@ -11,9 +11,9 @@ The objective of this analysis is to explore how different work environments (re
 
 **Problem Statement**
 The primary objective of this analysis is to understand the following:
-Are there significant differences in productivity and well-being between remote and in-office employees?
-How do hours worked per week affect employee productivity? Does working more hours lead to higher productivity or is there diminishing return after certain number of hours?
-How does the well-being score of employees correlate with their productivity and hours worked?
+1. Are there significant differences in productivity and well-being between remote and in-office employees?
+2. How do hours worked per week affect employee productivity? Does working more hours lead to higher productivity or is there diminishing return after certain number of hours?
+3. How does the well-being score of employees correlate with their productivity and hours worked?
 
 By analyzing this dataset, the goal is to provide actionable insights that can help organizations make data-driven decisions about work policies and employee support systems, promoting both productivity and well-being.
 
